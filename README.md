@@ -8,28 +8,25 @@ Codeforces, LeetCode, CSES, CodeChef &amp; GeeksforGeeks solutions, organized cl
 
 Synced automatically by SolveBase.
 
-**Total solved: 31**
+**Total solved: 22**
 
 ## Codeforces
 
 Solutions by [SLoonker](https://codeforces.com/profile/SLoonker), organized by difficulty rating.
 
-**Solved: 12**
+**Solved: 2**
 
 | Difficulty | Solved |
 | --- | --- |
-| [800](./codeforces/800) | 4 |
-| [1000](./codeforces/1000) | 1 |
-| [1200](./codeforces/1200) | 2 |
+| [800](./codeforces/800) | 1 |
 | [2300](./codeforces/2300) | 1 |
-| [unrated](./codeforces/unrated) | 4 |
 
 
 ## LeetCode
 
 Solutions organized by primary topic folder.
 
-**Solved: 19**
+**Solved: 20**
 
 | Topic | Solved |
 | --- | --- |
@@ -37,7 +34,7 @@ Solutions organized by primary topic folder.
 | [dynamic-programming](./leetcode/dynamic-programming) | 3 |
 | [hash-table](./leetcode/hash-table) | 4 |
 | [stack](./leetcode/stack) | 1 |
-| [string](./leetcode/string) | 4 |
+| [string](./leetcode/string) | 5 |
 | [two-pointers](./leetcode/two-pointers) | 3 |
 
 
